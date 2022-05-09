@@ -1,2 +1,0 @@
-# YL-PROJECT-FLASK
-ПРИВЕТ
